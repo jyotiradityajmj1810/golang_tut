@@ -46,6 +46,7 @@ func main() {
 	fmt.Println(CollageName)
 	fmt.Printf("the type of variable is = %T \n", CollageName)
 
-	
+	var a,b int = 23,24
+	fmt.Println(a,b)
 
 }
