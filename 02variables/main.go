@@ -49,4 +49,6 @@ func main() {
 	var a,b int = 23,24
 	fmt.Println(a,b)
 
+	const c  = 6600000000000
+	fmt.Println(int64(c))
 }
